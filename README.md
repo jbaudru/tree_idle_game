@@ -1,5 +1,7 @@
 # Tree Idle Game
 
+I forgot to put the rest of the code and sprites. It's a simple idle game where you have to cut trees to collect wood to be able to buy bot that cut wood **EVEN** faster.
+
 ## Execution
 Via the following commands: 
 > `cd tree_idle_game/src/` </br>
