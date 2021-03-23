@@ -1,6 +1,7 @@
 # Tree Idle Game
 
-I forgot to put the rest of the code and sprites. It's a simple idle game where you have to cut trees to collect wood to be able to buy bot that cut wood **EVEN** faster.
+I forgot to put the rest of the code and sprites. It's a simple idle game where you have to cut trees to collect wood to be able to buy bot that cut wood **EVEN** fasterrr.
+The whole project is based on the PyGame library.
 
 ## Execution
 Via the following commands: 
