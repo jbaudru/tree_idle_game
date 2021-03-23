@@ -9,7 +9,7 @@ Via the following commands:
 > Current version : **v.0.0.1**
 
 ## Capture
-<img src="https://github.com/jbaudru/personnal_save/blob/master/tree_idle_game/1.PNG?raw=true" alt="drawing" width="500"/>
-<img src="https://github.com/jbaudru/personnal_save/blob/master/tree_idle_game/2.PNG?raw=true" alt="drawing" width="500"/>
-<img src="https://github.com/jbaudru/personnal_save/blob/master/tree_idle_game/3.PNG?raw=true" alt="drawing" width="500"/>
+<img src="https://github.com/jbaudru/tree_idle_game/blob/main/1.PNG?raw=true" alt="drawing" width="500"/>
+<img src="https://github.com/jbaudru/tree_idle_game/blob/main/2.PNG?raw=true" alt="drawing" width="500"/>
+
 
